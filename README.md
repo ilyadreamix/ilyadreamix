@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm IlyaDreamix</h1>
 <h3 align="center">15 y/o developer</h3>
 
-- 🔭 I’m currently working on [Privatter API](https://github.com/ilyadreamix25/privatter-api-kt)
+- 🔭 I’m currently working on [RootInspector](https://github.com/ilyadreamix25/root-inspector)
 
 - 🌱 I’m currently learning **Spring Boot, Flutter**
 
