@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyadreamix25&size_weight=0&count_weight=1&hide=cmake&,c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyadreamix25)](https://github.com/ilyadreamix25?tab=repositories)
