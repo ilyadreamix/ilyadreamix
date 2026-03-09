@@ -13,7 +13,7 @@ So, here goes my tech stack.
 
 As I've said above, Kotlin is my favourite language. I've been developing Android (and recently have started creating iOS) applications since I was 14 years old.
 
-Currently I am working on some KMP + CMP projects and that the language I work with most often. And I also have worked with Android View (or how it often gets called – Android XML) system.
+Currently I am working on some KMP + CMP projects. I also have worked with Android View (or how it often gets called – Android XML) system.
 
 #### TypeScript
 
