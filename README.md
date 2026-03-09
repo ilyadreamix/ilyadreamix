@@ -5,9 +5,7 @@ I am a freelance Android/KMP full-stack developer from Ukraine, who currently li
 You may see me in various Telegram IT chats complaining too much about Kotlin `internal` modifier,
 but actually I like this language the most.
 
-So, here goes my tech stack.
-
-### Programming languages
+So, here goes my stack.
 
 #### Kotlin
 
