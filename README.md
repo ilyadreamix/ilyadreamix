@@ -23,4 +23,4 @@ The programming language I used before switching to Go. Written some backends an
 
 The language I currently use for backend.
 
-Not going to lie, I use AI to learn and use it. I know basic concepts that are the same in all programming languages, so that helps me to understand what's going one there.
+Not going to lie, I use AI to learn and use it. I know basic concepts that are the same in all programming languages, so that helps me to understand what's going on there.
